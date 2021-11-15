@@ -1,0 +1,20 @@
+.cent{
+    text-align: center;
+}
+
+body
+{
+background-image: url("https://www.clipartmax.com/png/small/24-248636_free-weather-clipart-transparent-background-weather-clipart.png")
+}
+
+.titleBack
+{
+    background-color: darkmagenta;
+    text-align: center;
+    font-family:  sans-serif;
+}
+
+p{
+    font-weight:900;
+    text-shadow: darkred;
+}
